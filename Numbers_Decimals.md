@@ -1,5 +1,4 @@
 # ALL THESE REQUIRE THE WHOLE STRING TO BE A NUMBER
-# For numbers embedded in sentences, see discussion below
 
 ## NUMBERS AND DECIMALS ONLY ####
 
